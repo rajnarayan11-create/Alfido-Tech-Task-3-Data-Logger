@@ -27,8 +27,7 @@ This project is a Virtual Data Logger built using an Arduino Mega 2560 in Cirkit
 ---
 
 ## Circuit Diagram
-![Circuit Diagram](apni_circuit_image_ka_exact_naam_yahan_likhein.png)
-
+<img width="1616" height="973" alt="Image" src="https://github.com/user-attachments/assets/2621922c-537a-4530-bfde-c1dbadb67d2a" />
 ## Project Video Demonstration
 https://github.com/user-attachments/assets/5a1a990c-2608-4b3d-9162-a3988b4a87dd
 
